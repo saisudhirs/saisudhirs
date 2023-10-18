@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning and experimenting with GEE
 - 👯 I’m looking to collaborate on making websites
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like observing the details
