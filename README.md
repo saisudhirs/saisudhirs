@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Software Development
-- 🌱 I’m currently learning and experimenting with Prompt Engineering
+- 🌱 I’m currently learning and experimenting with AI & Agentic Frameworks
 - 👯 I’m looking to collaborate on making opensource contributions
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like observing the details
